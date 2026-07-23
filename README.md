@@ -125,6 +125,4 @@ curl -X POST http://localhost:3000/api/auth/login \
 - Email verification is required before login.
 - The app uses cookies for refresh token storage.
 
-## License
 
-This project is licensed under the ISC License.
